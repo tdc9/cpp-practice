@@ -14,7 +14,7 @@ int main() {
 
     z= sqrt(pow(x,2) + pow(y,2));
 
-    std::cout << "The Hypotenuse Is : "  << z;
+    std::cout << "The Hypotenuse Is : "  << z << "\n";
 
     return 0;
 
