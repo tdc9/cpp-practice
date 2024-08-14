@@ -1,10 +1,10 @@
 #include <iostream>
 int main() {
+    std::string name;
+    std::cout << "Whats You Name Hooman? :";
+    std::getline(std::cin >> std::ws, name);
+    std::cout << "Good Hooman " << name;
 
-    int x;
-    x = 5;
-
-    std::cout << x;
     
     return 0;
 
