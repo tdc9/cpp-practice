@@ -7,10 +7,10 @@ int main() {
     int z;
 
     std::cout << "What is the Perpendicular Of Triangle : ";
-    std::cin >> std::ws, x;
+    std::cin >>  x;
 
     std::cout << "What is the Base Of Triangle : ";
-    std::cin >> std::ws, y;
+    std::cin >>  y;
 
     z= sqrt(pow(x,2) + pow(y,2));
 
