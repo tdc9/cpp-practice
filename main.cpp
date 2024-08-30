@@ -1,5 +1,5 @@
 #include <iostream>
-int main(){
+void calculator(){
     char o;
     double a;
     double b; 
@@ -34,8 +34,10 @@ int main(){
             std::cout << " Enter A Valid Operation Form (+,-,*,/)" << '\n';
             break;
     }
-    return 0;
-    }
+}
+int main(){
+    calculator();
+}
 
 
 
