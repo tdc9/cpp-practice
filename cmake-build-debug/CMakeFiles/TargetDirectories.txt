@@ -1,0 +1,3 @@
+C:/Users/DELL/Documents/GitHub/oneinallbot/cmake-build-debug/CMakeFiles/oneinallbot.dir
+C:/Users/DELL/Documents/GitHub/oneinallbot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Documents/GitHub/oneinallbot/cmake-build-debug/CMakeFiles/rebuild_cache.dir

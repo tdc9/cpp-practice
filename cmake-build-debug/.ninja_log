@@ -1,0 +1,13 @@
+# ninja log v5
+14	1274	7468908595953172	CMakeFiles/oneinallbot.dir/constparameter.cpp.obj	4c5c895bf83900cc
+26	1288	7468908595998031	CMakeFiles/oneinallbot.dir/creditcardvalidator.cpp.obj	8f180d3a769d42d8
+46	1297	7468908596214762	CMakeFiles/oneinallbot.dir/hello.cpp.obj	649ff8921f54fde4
+1278	2515	7468908608392023	CMakeFiles/oneinallbot.dir/main.cpp.obj	fbb4377be00ddf24
+1297	2527	7468908608470479	CMakeFiles/oneinallbot.dir/nullpointer.cpp.obj	e5d5a1eb888fa51a
+1288	2536	7468908608612709	CMakeFiles/oneinallbot.dir/memoryaddresses.cpp.obj	ffb6f395a1dedc24
+2527	4171	7468908624796859	CMakeFiles/oneinallbot.dir/pointers.cpp.obj	5fa00f5202680d2d
+2515	4180	7468908624933682	CMakeFiles/oneinallbot.dir/passbyvalue.cpp.obj	fbba5b5787f9d8f7
+2537	4199	7468908625043901	CMakeFiles/oneinallbot.dir/practice1.cpp.obj	a57ec662925283c1
+4171	7799	7468908659819841	CMakeFiles/oneinallbot.dir/quizgame.cpp.obj	fe02b93540715068
+4180	7847	7468908660458766	CMakeFiles/oneinallbot.dir/test.cpp.obj	ca330797fca7e2f3
+4199	7931	7468908662080829	CMakeFiles/oneinallbot.dir/tictactoegame.cpp.obj	e166cdcc3e7bd30a
